@@ -39,3 +39,6 @@ Inclinação da mesa de jogo:
 
 Labirinto:
 ![Labirinto](https://github.com/felidan/jogo-obstaculos-openGL/blob/master/Labirinto.png)
+
+## Download OpenCV
+https://sourceforge.net/projects/opencvlibrary/files/opencv-win/2.4.13/
