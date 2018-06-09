@@ -38,4 +38,4 @@ Inclinação da mesa de jogo:
 ## Screenshots:  
 
 Labirinto:
-![Labirinto](https://github.com/felidan/jogo-obstaculos-openGL/Labirinto.png)
+![Labirinto](https://github.com/felidan/jogo-obstaculos-openGL/blob/master/Labirinto.png)
